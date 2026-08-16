@@ -1,4 +1,4 @@
-# Mobile Sales Performance Dashboard
+# 📱Mobile Sales Performance Dashboard
 An interactive, single-page Power BI report analyzing three years of mobile phone retail transactions across India — tracking sales, brand and model performance, city-level demand, and customer satisfaction in one filterable view.
 
 ## Short Description / Purpose
