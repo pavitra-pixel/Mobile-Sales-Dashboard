@@ -50,4 +50,4 @@ Contains 3,835 transaction records spanning October 2021 – October 2024, acros
   - Seasonal Demand: The July uptick in units sold (1,700 vs. 1,451 in February) suggests a seasonal window worth planning promotions and inventory around
 
 ## Screenshots / Demos
-![Dashboard]()
+![Dashboard](https://github.com/pavitra-pixel/mobile-sales-dashboard/blob/main/Mobile%20Sales%20Dashboard.png)
