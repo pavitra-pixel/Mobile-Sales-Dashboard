@@ -6,7 +6,7 @@ The Mobile Sales Dashboard is a Power BI report designed to help retail sales ma
 
 ## Tech Stack
 The dashboard was built using the following tools and technologies:
-- 📊 **Power BI Desktop** – Main data visualization platform used for report creation
+- 📊 Power BI Desktop – Main data visualization platform used for report creation
 - 📁 Power Query – Data cleaning and transformation layer (standardizing inconsistent day-name entries, shaping the transaction table for modeling)
 - 🧮 DAX (Data Analysis Expressions) – Used for calculated KPI measures (Total_sales, Total_quantity, Average_price, Transactions) and a calculated Rating Status column bucketing 1–5 star ratings into Poor/Average/Good/Excellent
 - 📄 Data Modeling – Mobile_Sales_Data fact table joined to a custom date table (Custom_Calander) for month-level time intelligence, enabling cross-filtering across all visuals via slicers
