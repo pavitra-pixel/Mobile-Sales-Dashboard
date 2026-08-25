@@ -41,7 +41,7 @@ Contains 3,835 transaction records spanning October 2021 – October 2024, acros
   - Sales by City (Map): Delhi leads at ₹20.39 Cr (26.5% of revenue), Mumbai second at ₹12.72 Cr (16.5%) — together the top 2 of 19 cities drive 43% of total sales
   - Brand Summary (Table): Apple leads narrowly at ₹16.16 Cr / 783 transactions / 3,932 units, closely followed by Samsung, OnePlus, Vivo, and Xiaomi — all five brands sit within ₹1.8 Cr of each other
 
-- ***Business Impact & Insights***
+- **Business Impact & Insights**
 
   - Regional Investment: Delhi and Mumbai alone drive 43% of revenue — strong candidates for dedicated inventory and localized marketing spend, while the remaining 17 cities each hold a smaller, fairly even share, pointing to expansion headroom
   - Brand Portfolio Balance: No single brand dominates (Apple leads Samsung by under 1%) — the retailer's assortment is well-diversified, so decisions are better made at the model level than the brand level
